@@ -1,0 +1,17 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "stdbool.h": "c",
+        "unistd.h": "c",
+        "task.h": "c",
+        "sdkconfig.h": "c",
+        "freertos.h": "c",
+        "driver/gpio.h": "c",
+        "freertosconfig.h": "c",
+        "stdio.h": "c",
+        "gpio.h": "c",
+        "*.ipp": "c",
+        "*.inc": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
